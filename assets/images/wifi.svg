@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38.818" height="27.448" viewBox="0 0 38.818 27.448">
+  <g id="wifi" transform="translate(0 -68.733)">
+    <g id="Group_38" data-name="Group 38" transform="translate(0 68.733)">
+      <g id="Group_37" data-name="Group 37">
+        <path id="Path_230" data-name="Path 230" d="M170.667,312.31l5.293,5.293,5.293-5.293A7.492,7.492,0,0,0,170.667,312.31Z" transform="translate(-156.551 -290.155)" fill="#fc284f"/>
+        <path id="Path_231" data-name="Path 231" d="M85.333,194.541l3.529,3.529a12.481,12.481,0,0,1,17.645,0l3.529-3.529A17.47,17.47,0,0,0,85.333,194.541Z" transform="translate(-78.275 -179.444)" fill="#fc284f"/>
+        <path id="Path_232" data-name="Path 232" d="M0,76.772,3.529,80.3a22.46,22.46,0,0,1,31.76,0l3.529-3.529A27.449,27.449,0,0,0,0,76.772Z" transform="translate(0 -68.733)" fill="#fc284f"/>
+      </g>
+    </g>
+  </g>
+</svg>
